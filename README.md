@@ -11,6 +11,6 @@
 </div>
 
 ## 🛠️ My Skills  
-  [![My Skills](https://skillicons.dev/icons?i=kotlin,py,java,nodejs,go&theme=dark)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,py,java,nodejs&theme=dark)](https://skillicons.dev) 
   [![My Skills](https://skillicons.dev/icons?i=spring,django,angular&theme=dark)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=postgres,docker,&theme=dark)](https://skillicons.dev) 
