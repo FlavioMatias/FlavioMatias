@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" height="217" alt="banner git" src="https://github.com/user-attachments/assets/11fda124-9f58-4f52-9083-f59b0c6e5f5b" />
+  <img width="900" height="217" alt="banner git" src="https://github.com/user-attachments/assets/11fda124-9f58-4f52-9083-f59b0c6e5f5b" />
 </div>
 
 <p align="center">
@@ -11,24 +11,26 @@
   </a>
 </p>
 
-## 🧠 About Me
+## 🤓 About Me
 
 Developer focused on **architecture** and **performance**.  
 I enjoy breaking things down, from domain logic to infra, just to rebuild them stronger.  
 Always learning, experimenting, and pushing both **code** and **limits**.
 
 ---
-
+<div align="center">
+  
 | Languages                                                          | Backend                                                                     | Frontend                                                                    | Infra                                                                                        |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![langs](https://skillicons.dev/icons?i=py,java,ts,go&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,react,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,postgres,mongodb,redis,linux,git&theme=dark) |
+| ![langs](https://skillicons.dev/icons?i=py,java,ts,go&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,postgres,mongodb,redis&theme=dark) |
+  
+</div>
 
-
-## 📊 GitHub Stats
+## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioMatias&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMatias&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMatias&layout=compact&langs_count=7&theme=dark"/><br>
+  <img src="https://streak-stats.demolab.com?user=FlavioMatias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ---
