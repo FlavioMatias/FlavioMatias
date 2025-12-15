@@ -22,7 +22,7 @@ Always learning, experimenting, and pushing both **code** and **limits**.
   
 | Languages                                                          | Backend                                                                     | Frontend                                                                    | Infra                                                                                        |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![langs](https://skillicons.dev/icons?i=py,java,ts,go&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,postgres,mongodb,redis&theme=dark) |
+| ![langs](https://skillicons.dev/icons?i=py,java,ts,go&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,postgres,mongodb,redis,rabbitmq&theme=dark) |
   
 </div>
 
