@@ -40,9 +40,3 @@ Always learning, experimenting, and pushing both **code** and **limits**.
   <img src="https://streak-stats.demolab.com?user=FlavioMatias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
----
-
-<p align="center">
-  <i>“Only through focus can you do world-class things, no matter how capable you are.”</i><br>
-  — <b>Bill Gates</b>
-</p>
