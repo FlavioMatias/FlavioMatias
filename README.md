@@ -1,15 +1,22 @@
 <div align="center">
-  <img width="900" height="217" alt="banner git" src="https://github.com/user-attachments/assets/11fda124-9f58-4f52-9083-f59b0c6e5f5b" />
-</div>
 
-<p align="center">
-  <a href="https://www.instagram.com/o_flaviomatias/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img width="913" height="257" alt="banner" src="https://github.com/user-attachments/assets/b9a68d5a-4a88-4b30-9245-2f7ab5217aac" />
+
+  &nbsp;
+   
+   
+  <div align="center" style="margin: 0 10px;">
+    <a href="https://www.instagram.com/flaviomatiaz/" style="margin: 0 10px;">
+      <img width="40" height="40" alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/c537b929-d548-4740-a937-81146d2aadd1" />
+    </a>  &nbsp;  &nbsp;  &nbsp;
+
+
+  
+  <a href="https://www.linkedin.com/in/flavio-matias-dev/" style="margin: 0 10px;">
+    <img width="40" height="40" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/4bc42bf4-1b3e-47ed-af8f-3cbbe85c45e8" />
   </a>
-  <a href="https://www.linkedin.com/in/flavio-matias-6a0b78260/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+  </div>
+</div>
 
 ## 🤓 About Me
 
