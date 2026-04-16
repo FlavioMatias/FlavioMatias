@@ -18,25 +18,29 @@
   </div>
 </div>
 
-## 🤓 About Me
 
-Developer focused on **architecture** and **performance**.  
-I enjoy breaking things down, from domain logic to infra, just to rebuild them stronger.  
-Always learning, experimenting, and pushing both **code** and **limits**.
 
----
+## About Me
+<img align="left" width="200" height="200" alt="Frame 1" src="https://github.com/user-attachments/assets/54387f4c-8738-45f7-9f0f-b83387cfb17e" style="margin-right: 20px;" />
+
+**Software Engineer** focado em arquitetura e performance.  
+Eu decomponho sistemas — da lógica de domínio à infraestrutura — para reconstruí-los de forma mais robusta e segura.  
+Sempre explorando o ecossistema JVM e práticas de Full Cycle Development.
+
+<br clear="left"/>
+  
 <div align="center">
   
 | Languages                                                          | Backend                                                                     | Frontend                                                                    | Infra                                                                                        |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![langs](https://skillicons.dev/icons?i=py,java,kotlin,ts,go&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,aws,redis,rabbitmq,postgres,mongodb&theme=dark) |
+| ![langs](https://skillicons.dev/icons?i=py,java,kotlin,ts,go&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,nextjs,flutter,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,aws,redis,rabbitmq,postgres,mongodb&theme=dark) |
   
 </div>
 
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMatias&layout=compact&langs_count=7&theme=dark"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMatias&layout=compact&langs_count=7&theme=dark"/> &nbsp;
   <img src="https://streak-stats.demolab.com?user=FlavioMatias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
