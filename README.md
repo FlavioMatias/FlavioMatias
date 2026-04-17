@@ -21,7 +21,8 @@
 
 
 ## About Me
-<img align="left" width="200" height="200" alt="Frame 1" src="https://github.com/user-attachments/assets/54387f4c-8738-45f7-9f0f-b83387cfb17e" style="margin-right: 20px;" />
+<img align="left" width="200" height="200" alt="Frame 1" src="https://github.com/user-attachments/assets/92e65f2b-fa2d-4331-910a-9aa50ea8b503" style="margin-right: 20px;" />
+
 
 Software Engineer focused on architecture, performance, and security. I specialize in decomposing complex systems  *from domain logic to infrastructure* to rebuild them in a more robust, scalable, and secure way.
 
