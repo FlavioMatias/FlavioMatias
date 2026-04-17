@@ -6,12 +6,7 @@
    
    
   <div align="center" style="margin: 0 10px;">
-    <a href="https://www.instagram.com/flaviomatiaz/" style="margin: 0 10px;">
-      <img width="40" height="40" alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/c537b929-d548-4740-a937-81146d2aadd1" />
-    </a>  &nbsp;  &nbsp;  &nbsp;
 
-
-  
   <a href="https://www.linkedin.com/in/flavio-matias-dev/" style="margin: 0 10px;">
     <img width="40" height="40" alt="Linkedin" title="Linkedin" src="https://github.com/user-attachments/assets/4bc42bf4-1b3e-47ed-af8f-3cbbe85c45e8" />
   </a>
