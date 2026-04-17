@@ -23,9 +23,9 @@
 ## About Me
 <img align="left" width="200" height="200" alt="Frame 1" src="https://github.com/user-attachments/assets/54387f4c-8738-45f7-9f0f-b83387cfb17e" style="margin-right: 20px;" />
 
-**Software Engineer** focado em arquitetura e performance.  
-Eu decomponho sistemas — da lógica de domínio à infraestrutura — para reconstruí-los de forma mais robusta e segura.  
-Sempre explorando o ecossistema JVM e práticas de Full Cycle Development.
+Software Engineer focused on architecture, performance, and security. I specialize in decomposing complex systems  *from domain logic to infrastructure* to rebuild them in a more robust, scalable, and secure way.
+
+Currently deep-diving into the JVM ecosystem (Java/Kotlin) and practicing Full Cycle Development. I’m passionate about clean code, DDD, and building software that is not only functional but also sustainable and secure by design.
 
 <br clear="left"/>
   
