@@ -29,7 +29,7 @@ Currently deep-diving into the JVM ecosystem (Java/Kotlin) and practicing Full C
   
 | Languages                                                          | Backend                                                                     | Frontend                                                                    | Infra                                                                                        |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![langs](https://skillicons.dev/icons?i=py,java,kotlin,ts,go&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,nextjs,flutter,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,aws,redis,rabbitmq,postgres,mongodb&theme=dark) |
+| ![langs](https://skillicons.dev/icons?i=java,kotlin,go,py,ts&theme=dark) | ![backend](https://skillicons.dev/icons?i=nestjs,nodejs,spring&theme=dark) | ![frontend](https://skillicons.dev/icons?i=angular,nextjs,flutter,figma&theme=dark) | ![infra](https://skillicons.dev/icons?i=docker,aws,redis,rabbitmq,postgres,mongodb&theme=dark) |
   
 </div>
 
